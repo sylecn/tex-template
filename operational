@@ -1,0 +1,9 @@
+* COMMENT -*- mode: org -*-
+#+Date: 2013-12-17
+Time-stamp: <2013-12-17>
+#+STARTUP: content
+* later								      :entry:
+* current							      :entry:
+** 2013-12-17 do not add empty page after each chapter.
+** 2013-12-17 do not add empty page after toc
+** 2013-12-17 show chapter text in toc
