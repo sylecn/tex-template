@@ -6,4 +6,5 @@ Time-stamp: <2013-12-17>
 * current							      :entry:
 ** 2013-12-17 do not add empty page after each chapter.
 ** 2013-12-17 do not add empty page after toc
-** 2013-12-17 show chapter text in toc
+** DONE 2013-12-17 show chapter text in toc
+just compile as many time as required. the text will show up.
