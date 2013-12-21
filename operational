@@ -1,10 +1,14 @@
 * COMMENT -*- mode: org -*-
 #+Date: 2013-12-17
-Time-stamp: <2013-12-17>
+Time-stamp: <2013-12-21>
 #+STARTUP: content
 * later								      :entry:
 * current							      :entry:
-** 2013-12-17 do not add empty page after each chapter.
-** 2013-12-17 do not add empty page after toc
+** DONE 2013-12-17 do not add empty page after each chapter.
+use document class option: openany
+see lshort page 11
+** DONE 2013-12-17 do not add empty page after toc
+use document class option: notitlepage
+see lshort page 11
 ** DONE 2013-12-17 show chapter text in toc
 just compile as many time as required. the text will show up.
